@@ -1,5 +1,4 @@
 <?php
-
 $a = $_POST['username']+4;
 $var ="string";
 $str= "String";
