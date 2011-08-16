@@ -6,7 +6,7 @@ if(strcmp($var,$str))
 echo "yes";
 else 
 echo "no";
-echo "this is last line";
+echo "this is last line from first project";
 ?>
 <html><head></head>
 <body>
