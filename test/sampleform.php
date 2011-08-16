@@ -1,5 +1,5 @@
 <?php
-$a = $_POST['username']+11;
+$a = $_POST['username']+5;
 $var ="string";
 $str= "String";
 if(strcmp($var,$str))
