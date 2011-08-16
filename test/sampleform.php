@@ -6,6 +6,7 @@ if(strcmp($var,$str))
 echo "yes";
 else 
 echo "no";
+echo "this is last line";
 
 ?>
 <html><head></head>
